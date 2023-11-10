@@ -1,4 +1,4 @@
-Android Studio Jetpack Compose WeatherApp using OpenWeatherMap Api and Retrofit.
+Kotlin Android Studio Jetpack Compose WeatherApp using OpenWeatherMap Api and Retrofit.
 
 
 Android Studio Version:-
