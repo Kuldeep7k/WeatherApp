@@ -1,4 +1,4 @@
-# WeatherApp using Jetpack Compose and OpenWeatherMap API
+# WeatherApp using Kotlin, Jetpack Compose and OpenWeatherMap API
 
 This is a simple WeatherApp built with Kotlin, Jetpack Compose, and Retrofit, utilizing the OpenWeatherMap API to fetch real-time weather data.
 
